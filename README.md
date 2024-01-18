@@ -1,8 +1,8 @@
-##Resources
+## Resources
 UI component library: https://mui.com/x/react-charts/
 Frontend prototype: https://app.visily.ai/projects/e1cabb0f-5b08-498e-b2c8-3e156ddc1531/boards/712476
 
-##Important dependencies to run
+## Important dependencies to run
 Node.js
 React.app
 To import the component library, run this command: https://www.npmjs.com/package/@mui/x-charts
