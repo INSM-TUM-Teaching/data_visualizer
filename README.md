@@ -1,3 +1,5 @@
+![Frontend Data visualisation 18012023](https://github.com/jing-yaoo/bearcrownew/assets/85895529/1142233a-c7e6-4cd4-babf-921f536e5066)
+
 ## Resources
 UI component library: https://mui.com/x/react-charts/
 Frontend prototype: https://app.visily.ai/projects/e1cabb0f-5b08-498e-b2c8-3e156ddc1531/boards/712476
