@@ -2,7 +2,7 @@ import './App.css';
 import '../src/'
 
 import * as React from 'react';
-import { BarChart } from '@mui/x-charts/BarChart';
+import { BarChart} from '@mui/x-charts/BarChart';
 import { axisClasses } from '@mui/x-charts';
 
 
@@ -135,27 +135,37 @@ const dataset = [
 
 const valueFormatter = (value) => `${value}`;
 
-function BarsDataset() {
-  return (
-    <BarChart
-      dataset={dataset}
-      series={[
-        { dataKey: 'scenario_A', label: 'Scenario A', valueFormatter },
-        { dataKey: 'scenario_B', label: 'Scenario B', valueFormatter },
-        { dataKey: 'scenario_C', label: 'Scenario C', valueFormatter },
-      ]}
-      layout="horizontal"
-      {...chartSetting}
-    />
-  );
-}
+// function BarsDataset() {
+//   return (
+//     <BarChart
+//       dataset={dataset}
+//       series={[
+//         { dataKey: 'scenario_A', label: 'Scenario A', valueFormatter },
+//         { dataKey: 'scenario_B', label: 'Scenario B', valueFormatter },
+//         { dataKey: 'scenario_C', label: 'Scenario C', valueFormatter },
+//       ]}
+//       layout="horizontal"
+//       {...chartSetting}
+//     />
+//   );
+// }
 
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <BarsDataset></BarsDataset>
+        <BarChart
+          dataset={dataset}
+          series={[
+            { dataKey: 'scenario_A', label: 'Scenario A', valueFormatter, color: '#B3B3FF' },
+            { dataKey: 'scenario_B', label: 'Scenario B', valueFormatter, color: '#9BFFAB' },
+            { dataKey: 'scenario_C', label: 'Scenario C', valueFormatter, color: '#FFAFB1' },
+          ]}
+          layout="horizontal"
+          {...chartSetting}
+        >
+        </BarChart>
       </header>
     </div>
   );
