@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Sustainability_Info>
+    <Shipment_and_delivery_over_distance_B>2.0290412857142858E-4</Shipment_and_delivery_over_distance_B>
+    <Shipment_and_delivery_over_distance_A>2.08049E-4</Shipment_and_delivery_over_distance_A>
+    <Shipment_and_delivery_over_distance_A_Electric>1.2968430000000002E-4</Shipment_and_delivery_over_distance_A_Electric>
+    <Average_Process_Instance_Cost>1.9661112E-4</Average_Process_Instance_Cost>
+    <Activity_Average_Cost>
+        <Print_and_post_pick-up_receipt>
+            <Shipment_and_delivery_over_distance_B>1.1530000000000001E-5</Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A>1.153E-5</Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric>1.153E-5</Shipment_and_delivery_over_distance_A_Electric>
+            <Print_and_post_pick-up_receipt_average_activity_cost>1.153E-5</Print_and_post_pick-up_receipt_average_activity_cost>
+        </Print_and_post_pick-up_receipt>
+        <Product_received>
+            <Shipment_and_delivery_over_distance_B>0.0</Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A>0.0</Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric>0.0</Shipment_and_delivery_over_distance_A_Electric>
+            <Product_received_average_activity_cost>0.0</Product_received_average_activity_cost>
+        </Product_received>
+        <Deliver_to_Door>
+            <Shipment_and_delivery_over_distance_B>4.265E-5</Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A>2.843E-5</Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric>2.843E-5</Shipment_and_delivery_over_distance_A_Electric>
+            <Deliver_to_Door_average_activity_cost>3.8384E-5</Deliver_to_Door_average_activity_cost>
+        </Deliver_to_Door>
+        <Package_product>
+            <Shipment_and_delivery_over_distance_B>5.274E-5</Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A>5.274E-5</Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric>5.274E-5</Shipment_and_delivery_over_distance_A_Electric>
+            <Package_product_average_activity_cost>5.274E-5</Package_product_average_activity_cost>
+        </Package_product>
+        <Product_delivered_successfully>
+            <Shipment_and_delivery_over_distance_B>0.0</Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A>0.0</Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric>0.0</Shipment_and_delivery_over_distance_A_Electric>
+            <Product_delivered_successfully_average_activity_cost>0.0</Product_delivered_successfully_average_activity_cost>
+        </Product_delivered_successfully>
+        <Deliver_to_Packstation>
+            <Shipment_and_delivery_over_distance_B>4.265E-5</Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A>2.843E-5</Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric>2.843E-5</Shipment_and_delivery_over_distance_A_Electric>
+            <Deliver_to_Packstation_average_activity_cost>3.8384E-5</Deliver_to_Packstation_average_activity_cost>
+        </Deliver_to_Packstation>
+        <Product_returned>
+            <Shipment_and_delivery_over_distance_B>0.0</Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A>0.0</Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric>0.0</Shipment_and_delivery_over_distance_A_Electric>
+            <Product_returned_average_activity_cost>0.0</Product_returned_average_activity_cost>
+        </Product_returned>
+        <Re-route_to_Packstation>
+            <Shipment_and_delivery_over_distance_B>8.529E-6</Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A>8.529E-6</Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric>8.529E-6</Shipment_and_delivery_over_distance_A_Electric>
+            <Re-route_to_Packstation_average_activity_cost>8.529E-6</Re-route_to_Packstation_average_activity_cost>
+        </Re-route_to_Packstation>
+        <Ship_product>
+            <Shipment_and_delivery_over_distance_B>4.4805128571428564E-5</Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A>7.839E-5</Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric>2.53E-8</Shipment_and_delivery_over_distance_A_Electric>
+            <Ship_product_average_activity_cost>4.704412E-5</Ship_product_average_activity_cost>
+        </Ship_product>
+        <Return_product>
+            <Shipment_and_delivery_over_distance_B>0.0</Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A>0.0</Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric>0.0</Shipment_and_delivery_over_distance_A_Electric>
+            <Return_product_average_activity_cost>0.0</Return_product_average_activity_cost>
+        </Return_product>
+    </Activity_Average_Cost>
+    <Activity_Instance_Cost>
+        <Print_and_post_pick-up_receipt ACD="Receipt">
+            <Shipment_and_delivery_over_distance_B CCD="Receipt">
+                <activity_instance_cost ProcessInstance_IDs="2, 3, 4, 7, 8, 9, 10" count="7">1.153E-5</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A CCD="Receipt">
+                <activity_instance_cost ProcessInstance_IDs="5, 6" count="2">1.153E-5</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric CCD="Receipt">
+                <activity_instance_cost ProcessInstance_IDs="1" count="1">1.153E-5</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A_Electric>
+        </Print_and_post_pick-up_receipt>
+        <Product_received>
+            <Shipment_and_delivery_over_distance_B>
+                <activity_instance_cost ProcessInstance_IDs="2, 3, 4, 7, 8, 9, 10" count="7">0.0</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A>
+                <activity_instance_cost ProcessInstance_IDs="5, 6" count="2">0.0</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric>
+                <activity_instance_cost ProcessInstance_IDs="1" count="1">0.0</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A_Electric>
+        </Product_received>
+        <Deliver_to_Door ACD="Delivery">
+            <Shipment_and_delivery_over_distance_B CCD="Delivery_B_Lorry">
+                <activity_instance_cost ProcessInstance_IDs="2, 3, 4, 7, 8, 9, 10" count="7">4.265E-5</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A CCD="Delivery_A_Lorry">
+                <activity_instance_cost ProcessInstance_IDs="5, 6" count="2">2.843E-5</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric CCD="Delivery_A_Lorry">
+                <activity_instance_cost ProcessInstance_IDs="1" count="1">2.843E-5</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A_Electric>
+        </Deliver_to_Door>
+        <Package_product ACD="Packaging Material, Filling Material">
+            <Shipment_and_delivery_over_distance_B CCD="Packaging_Material_B, Filling_A">
+                <activity_instance_cost ProcessInstance_IDs="2, 3, 4, 7, 8, 9, 10" count="7">5.274E-5</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A CCD="Packaging_Material_B, Filling_A">
+                <activity_instance_cost ProcessInstance_IDs="5, 6" count="2">5.274E-5</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric CCD="Packaging_Material_B, Filling_A">
+                <activity_instance_cost ProcessInstance_IDs="1" count="1">5.274E-5</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A_Electric>
+        </Package_product>
+        <Product_delivered_successfully>
+            <Shipment_and_delivery_over_distance_B>
+                <activity_instance_cost ProcessInstance_IDs="2, 3, 4, 7, 8, 9, 10" count="21">0.0</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A>
+                <activity_instance_cost ProcessInstance_IDs="5, 6" count="6">0.0</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric>
+                <activity_instance_cost ProcessInstance_IDs="1" count="3">0.0</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A_Electric>
+        </Product_delivered_successfully>
+        <Deliver_to_Packstation ACD="Delivery">
+            <Shipment_and_delivery_over_distance_B CCD="Delivery_B_Lorry">
+                <activity_instance_cost ProcessInstance_IDs="2, 3, 4, 7, 8, 9, 10" count="7">4.265E-5</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A CCD="Delivery_A_Lorry">
+                <activity_instance_cost ProcessInstance_IDs="5, 6" count="2">2.843E-5</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric CCD="Delivery_A_Lorry">
+                <activity_instance_cost ProcessInstance_IDs="1" count="1">2.843E-5</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A_Electric>
+        </Deliver_to_Packstation>
+        <Product_returned>
+            <Shipment_and_delivery_over_distance_B>
+                <activity_instance_cost ProcessInstance_IDs="2, 3, 4, 7, 8, 9, 10" count="21">0.0</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A>
+                <activity_instance_cost ProcessInstance_IDs="5, 6" count="6">0.0</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric>
+                <activity_instance_cost ProcessInstance_IDs="1" count="3">0.0</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A_Electric>
+        </Product_returned>
+        <Re-route_to_Packstation ACD="Re-Routing">
+            <Shipment_and_delivery_over_distance_B CCD="Re-Routing_A_Lorry">
+                <activity_instance_cost ProcessInstance_IDs="2, 3, 4, 7, 8, 9, 10" count="7">8.529E-6</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A CCD="Re-Routing_A_Lorry">
+                <activity_instance_cost ProcessInstance_IDs="5, 6" count="2">8.529E-6</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric CCD="Re-Routing_A_Lorry">
+                <activity_instance_cost ProcessInstance_IDs="1" count="1">8.529E-6</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A_Electric>
+        </Re-route_to_Packstation>
+        <Ship_product ACD="Shipment">
+            <Shipment_and_delivery_over_distance_B CCD="Shipment_A_Rail_Electric">
+                <activity_instance_cost ProcessInstance_IDs="2, 3, 4, 7, 8, 9, 10" count="7">2.53E-8</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A CCD="Shipment_A_Lorry">
+                <activity_instance_cost ProcessInstance_IDs="5, 6" count="2">7.839E-5</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric CCD="Shipment_A_Rail_Electric">
+                <activity_instance_cost ProcessInstance_IDs="1" count="1">2.53E-8</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A_Electric>
+        </Ship_product>
+        <Return_product>
+            <Shipment_and_delivery_over_distance_B>
+                <activity_instance_cost ProcessInstance_IDs="2, 3, 4, 7, 8, 9, 10" count="21">0.0</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_B>
+            <Shipment_and_delivery_over_distance_A>
+                <activity_instance_cost ProcessInstance_IDs="5, 6" count="6">0.0</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A>
+            <Shipment_and_delivery_over_distance_A_Electric>
+                <activity_instance_cost ProcessInstance_IDs="1" count="3">0.0</activity_instance_cost>
+            </Shipment_and_delivery_over_distance_A_Electric>
+        </Return_product>
+    </Activity_Instance_Cost>
+</Sustainability_Info>
