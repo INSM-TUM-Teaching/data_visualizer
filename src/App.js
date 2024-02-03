@@ -8,7 +8,6 @@ import { BarChart} from '@mui/x-charts/BarChart';
 import { axisClasses } from '@mui/x-charts';
 
 
-
 const chartSetting = {
   yAxis: [
     { scaleType: 'band', dataKey: 'Activity', label: "Activity", barGapRatio: 0.3, categoryGapRatio: 0.4 }
@@ -30,7 +29,7 @@ const chartSetting = {
 
 const valueFormatter = (value) => `${value}`;
 
-
+//test
 
 function App() {
   return (
