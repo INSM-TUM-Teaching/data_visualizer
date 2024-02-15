@@ -1,4 +1,5 @@
-![Frontend Data visualisation 18012023](https://github.com/jing-yaoo/bearcrownew/assets/85895529/1142233a-c7e6-4cd4-babf-921f536e5066)
+<img width="850" alt="Screenshot 2024-02-15 at 16 26 58" src="https://github.com/INSM-TUM-Teaching/data_visualizer/assets/85895529/bfedb4cb-e842-45ee-8cd8-2630430059ed">
+
 
 ## Resources
 UI component library: https://mui.com/x/react-charts/
